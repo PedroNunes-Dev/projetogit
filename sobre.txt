@@ -1,1 +1,1 @@
-teste de git via terminal
+Agora sim, consegui aprender a subir para o repositorio.
