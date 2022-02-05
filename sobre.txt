@@ -1,1 +1,1 @@
-Agora sim, consegui aprender a subir para o repositorio.
+fiz mudança de diretorio do windows para o linux. testando novamente o commit
